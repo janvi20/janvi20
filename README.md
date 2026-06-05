@@ -1,7 +1,5 @@
 ### Full-Stack Developer | Machine Learning Engineer
 
----
-
 ## 🚀 About Me
 
 I am a Software Engineer with **2+ years of experience** building scalable full-stack applications, AI-powered systems, and machine learning solutions.
@@ -15,17 +13,7 @@ I specialize in:
 
 I enjoy building systems that combine **software engineering + AI** to solve real-world problems at scale.
 
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [janvipatel1810](https://www.linkedin.com/in/janvipatel1810)
 - 📧 Email: pateljanvi1810@gmail.com
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building systems where **machine learning meets real-world software engineering**, especially in graph-based intelligence and predictive modeling.
-
----
