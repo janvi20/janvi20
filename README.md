@@ -1,5 +1,3 @@
-### Full-Stack Developer | Machine Learning Engineer
-
 ## 🚀 About Me
 
 I am a Software Engineer with **2+ years of experience** building scalable full-stack applications, AI-powered systems, and machine learning solutions.
