@@ -1,16 +1,31 @@
-## Hi there 👋
+### Full-Stack Developer | Machine Learning Engineer
 
-<!--
-**janvi20/janvi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Software Engineer with **2+ years of experience** building scalable full-stack applications, AI-powered systems, and machine learning solutions.
+
+I specialize in:
+- Full-stack web development (React, Node.js, Python, Java)
+- Backend systems & REST API architecture
+- Machine learning model development & deployment
+- Graph Neural Networks for spatio-temporal forecasting
+- Data-driven applications and analytics platforms
+
+I enjoy building systems that combine **software engineering + AI** to solve real-world problems at scale.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [janvipatel1810](https://www.linkedin.com/in/janvipatel1810)
+- 📧 Email: pateljanvi1810@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems where **machine learning meets real-world software engineering**, especially in graph-based intelligence and predictive modeling.
+
+---
